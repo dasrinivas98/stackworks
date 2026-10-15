@@ -17,6 +17,6 @@ If you use a `www` subdomain, add the corresponding DNS record and redirect the 
 
 ## Before launch
 
-- Replace `hello@stackworks.in` if you want inquiries sent to another address.
+- Inquiries go to `info@stackworks.in`; update the `mailto:` links if the address changes.
 - Add real program details, eligibility, pricing, mentor information, and examples of student work before accepting applications.
 - Add a privacy notice if you later collect applications through a form or analytics.
